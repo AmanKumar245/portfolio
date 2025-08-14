@@ -183,13 +183,13 @@ export const socialLinks = [
 ];
 
 export const projects = [
-    // {
-    //     iconUrl: pricewise,
-    //     theme: 'btn-back-red',
-    //     name: 'Social Media',
-    //     description: 'Developed a web application where user can connect and share there photos and interact with then.',
-    //     link: 'https://github.com/AmanKumar245/Social_media_client',
-    // },
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Social Media',
+        description: 'Developed a web application where user can connect and share there photos and interact with then.',
+        link: 'https://github.com/AmanKumar245/Social_media_client',
+    },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
